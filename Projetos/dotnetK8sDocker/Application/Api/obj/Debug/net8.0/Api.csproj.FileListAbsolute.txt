@@ -1,0 +1,7 @@
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\a1087482\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\Área de Trabalho\Aline Maia\kubernates\Projetos\dotnet-k8s-docker-app\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache

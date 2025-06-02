@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PLFS0m4eq8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\microservices\\Projetos\\dotnetK8sDocker\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a1087482\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\grpc.core.api\\2.52.0\\grpc.core.api.2.52.0.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\grpc.net.client\\2.52.0\\grpc.net.client.2.52.0.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\grpc.net.common\\2.52.0\\grpc.net.common.2.52.0.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\grpc.tools\\2.52.0\\grpc.tools.2.52.0.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.16\\microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.16\\microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "C:\\Users\\a1087482\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.16\\microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MessagePack' 2.3.85 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4qm4-8hg2-g2xm",
+      "projectPath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\microservices\\Projetos\\dotnetK8sDocker\\Domain\\Domain.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\a1087482\\OneDrive - EDITORA E DISTRIBUIDORA EDUCACIONAL S A\\Área de Trabalho\\Aline Maia\\microservices\\Projetos\\dotnetK8sDocker\\Domain\\Domain.csproj",
+      "libraryId": "MessagePack",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

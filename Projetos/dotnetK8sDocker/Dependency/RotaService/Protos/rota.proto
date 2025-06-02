@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "RotaService.Protos";
+
+package rota;
+
+
+service Rota {  
+  rpc GetRota(RotaRequest) returns (RotaResponse);
+}
+
+
+message RotaRequest {
+  string name = 1;
+}
+
+
+message RotaResponse {
+  string message = 1;
+}

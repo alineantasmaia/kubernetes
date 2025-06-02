@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Server</AssemblyName>
+    <RootNamespace>Server</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.22.0" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.53.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.53.0" PrivateAssets="All" />
+    <!-- <PackageReference Include="MessagePack" Version="2.3.85" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Protos\rota.proto" GrpcServices="Server" />
+  </ItemGroup>
+
+</Project>
